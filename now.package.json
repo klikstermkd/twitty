@@ -1,0 +1,9 @@
+{
+  "name": "twitty",
+  "scripts": {
+    "start": "list . -s"
+  },
+  "dependencies": {
+    "list": "latest"
+  }
+}
